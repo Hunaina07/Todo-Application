@@ -1,0 +1,16 @@
+.btn{
+    color: white;
+    background-color: black;
+    padding: 7px;
+    border-radius: 10px;
+    border: none;
+    margin:10px;
+
+ }
+ .liststyle{
+     padding: 20px;
+     background-color: grey;
+     border-radius: 20px;
+     margin-top: 20px;
+     color: WHITE;
+ }
